@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sajowski
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning HTML/CSS/Luau
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
